@@ -6,7 +6,7 @@
 			</div>	
       <br>
 			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
+			<div>Stop struggling with scattered API keys, hacking together home-brewed toolss,</div>
 			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
 			</br>
 		</a>	
